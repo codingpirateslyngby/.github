@@ -1,1 +1,1 @@
-# .github
+# Coding Pirates Lyngby
